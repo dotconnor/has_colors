@@ -4,7 +4,7 @@ description = "Detects if the current environment supports colored output."
 version = "0.1.0"
 authors = ["Connor Love <connor@dotconnor.com>"]
 edition = "2018"
-license = "mit"
+license = "MIT"
 license-file = "LICENSE"
 repository = "https://github.com/dotconnor/has_colors"
 
